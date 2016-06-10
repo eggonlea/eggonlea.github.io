@@ -1,1 +1,56 @@
-<svg viewBox="0 0 16 16"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 32 32"
+   height="32"
+   width="32"
+   version="1.1"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <image
+     y="0"
+     x="0"
+     id="image10"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA/JJREFU
+WIXll01oXFUYht/3O+fOxFJ1URsFC1awGxVFWvxDLVpwIYW0UBAhYAVBNxWp4KIQCqILURCqoBRF
+NwoKYjei1B9UJEhB0ZiFJRaXwYCCP6mZued8r4t7k0xmJnUmjmTh4S6GmTv3fb7/71ISNvPYpqoD
+iAff+HFTAUbmAZJjNDvCEKcZ4hJDbDHEb2k2RXJrty7Jm1cASILkQyTDBsV3wcJ3FpsnrBi7LTS3
+NENzS8MaYzdabD7FEH8guYfkNTR7jCHOgrabJGL9hHFaeEXSPfR8WFIeQnw7Q/EpY2MHQwRpAAGA
+IASZAx6uhIWvIIX692nldFLZEUmCFm5nbDQoTXpqF/T8oKTWAOJgiM+yaOyw0ADI7jtACyANshhQ
+Vdxn8nQM4OMAvq5ygLadIYKxASua9zPEL0le/c/m26UMxSRD0Ud8DWkFEgJA3ApgGuRNoH1eA3Ch
+ojUwNsDY3MPYmKHZEyQb61pvtpchFryQeC/0GGlvgTwMQBWAdAaQAwRpsMoTW61oPs8Qz9LsCMlL
++jxsvLJ8CADpbXmeVE4JciwDzEM6BWjZPFQhacKKsZ0WmycYigWGeKqGuQXkxSB/GU4ckKdzyqXg
+GZIQJQGeIc9HYWEvyW01BWgBMAMsgPKm3CfgeULy2gGhfcHY9+gLcP9D7lgeAbGKnw4pp5208CiM
+L4O8bPVvNQgMNEByEKqcRTaGir9UeRur86fuA5ZIew4SBIF93crq2livWmWAzqFjAFad0MIXDPEv
+hIihLBpePkH6pvObOgn9V5CvctiMHlpfZyA/vwZAEuQO5fKY3L//D8Uh9/ckQd0hgBzK6U/ldLfk
+H3Ymyej0vQ3Pb6KuoDUAkqCcoNReVCqPyv0RQD+NUB6QvyvP8+jawOIqoQDPCZ4+IHmVqhE9Gnkp
+KafjqptP5+leSBLJJ2E2wmoQ4PlFeZ7rdn8fAEHSOxCmRqQOSXPK5ZRy6rG+F0CCUgml9tPKeT+k
+f1cV0nnl8pByWuxnfQ+AJEAOT214ufS+p/YN8nQtpE82oN6SpwmlcmY963sAOiGUSyi1diuVJ6W8
+b7jS1G/Kab+XrY+Vy3XFgY4qqA9JXgdyH2gHQbsLZgQNA3dIaVaeHvCyNatcQt7f9SsAJHeBdhzk
+HSSvAK1J1iM4hGr4DFQRWpT7C/L0jFK5NIg4AESQc7QwyRDuhYWHyXAAZFFtrwMJ/yzpNXh+Sbmc
+91QCfep9fQAJkgPO06SdBjUO8D5Bd1K4HsTlALcBuAjQ7wAWIJwVNAP5R3CflqeknCHPVf4M8b7J
+A6/PVR9IgLayBVVhsGo36PCE5PVi4dUQq0XRNWQGBvjfvx3/Dc+gGsMjhvbKAAAAAElFTkSuQmCC
+
+"
+     preserveAspectRatio="none"
+     height="32"
+     width="32" />
+</svg>
