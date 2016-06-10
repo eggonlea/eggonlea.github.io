@@ -9,16 +9,20 @@
 title: A Lazy Hacker
 email: eggonlea at msn.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a lazy Linux hacker.
-  Don't expect regular update!
+  A lazy Linux hacker decides to write something about his life, work, hobbies, and, well, whatever you can think of.
+  But please DON'T expect regular update as I'm lazy, err, I mean *BUSY* actually!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eggonlea.github.io" # the base hostname & protocol for your site
+
+# Social accounts
 github_username:      eggonlea
 facebook_username   : eggonlea
 google_plus_username: eggonlea
 twitter_username:     eggonlea
 instagram_username:   eggonlea
 linkedin_username:    eggonlea
+qq_username:          53753748
+weibo_username:       eggonlea
 
 # Build settings
 markdown: kramdown
